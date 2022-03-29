@@ -1,0 +1,44 @@
+[
+    {
+        "key": "01",
+        "name": "Web development",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/1.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $70"
+    },
+    {
+        "key": "02",
+        "name": "Crm Design for company",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/2.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $120"
+    },
+    {
+        "key": "03",
+        "name": "Web solution for business",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/3.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $40 for 1 Hour"
+    },
+    {
+        "key": "04",
+        "name": "Company management solution",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/4.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $120"
+    },
+    {
+        "key": "05",
+        "name": "Business solution",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/5.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $350"
+    },
+    {
+        "key": "06",
+        "name": "Web development service",
+        "img": "https://raw.githubusercontent.com/odht82/data_heroedu/main/6.jpg",
+        "special": "Best sale service",
+        "price": "Starts from $60"
+    }
+]
